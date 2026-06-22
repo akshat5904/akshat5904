@@ -17,9 +17,6 @@
 
 <br><br>
 
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
 <a href="https://www.linkedin.com/in/akshat-joshi-278b34257/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -214,9 +211,6 @@ The system leverages machine learning algorithms and feature engineering techniq
 
 ![](https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-7C3AED?style=for-the-badge)
 
-### Google
-
-![](https://img.shields.io/badge/Google-Looker%20Studio-A855F7?style=for-the-badge)
 
 ### Data Analytics & Business Intelligence
 
@@ -238,15 +232,6 @@ The system leverages machine learning algorithms and feature engineering techniq
 
 </div>
 
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akshat5904&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
 
 ---
 
@@ -295,10 +280,6 @@ The system leverages machine learning algorithms and feature engineering techniq
 
 <a href="https://github.com/akshat5904">
 <img src="https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
