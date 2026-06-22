@@ -104,11 +104,7 @@ Sales Analytics & Forecasting System is an end-to-end data analytics project bui
 | Metric | Details |
 |----------|----------|
 | Stack | Python, SQL, Pandas, Streamlit, Excel |
-| Scale | Multi-dimensional sales datasets |
-| Performance | Automated KPI generation and forecasting |
-| Security | Structured data validation workflows |
-| Impact | Faster business reporting and forecasting |
-| Repository | [View Repository](https://github.com/akshat5904) |
+| Repository | [View Repository](https://github.com/akshat5904/Sales_Analytics_Forecasting_System) |
 
 ### Professional Summary
 
@@ -117,70 +113,41 @@ This solution demonstrates practical business intelligence implementation throug
 </details>
 
 <details>
-<summary><b>Shipment Prediction System</b></summary>
+<summary><b>Retail Sales Analytics Database</b></summary>
 
 ### Overview
 
-Shipment Prediction System is a forecasting platform developed during industry internship experience. The solution extracts shipment data from SQL databases, performs trend analysis, and predicts future shipment volumes using historical logistics information.
+This project is a relational database system developed using MySQL to analyze retail sales data. The database stores customer, product, order, and regional information and provides business insights through SQL queries.
 
 | Metric | Details |
 |----------|----------|
-| Stack | Python, SQL Server, Pandas, Streamlit |
-| Scale | Enterprise shipment records |
-| Performance | Automated forecasting pipeline |
-| Security | Secure database integration |
-| Impact | Improved logistics planning and visibility |
-| Repository | [View Repository](https://github.com/akshat5904) |
+| Stack | MySQL, SQL Server, Database |
+| Repository | [View Repository](https://github.com/akshat5904/Retail_Sales_Analytics_Database) |
 
 ### Professional Summary
 
-The application connects directly to enterprise databases, processes shipment information, aggregates monthly metrics, and generates forward-looking predictions. Interactive dashboards and export features support business planning and operational forecasting.
+SQL-based retail sales analytics project designed for sales reporting, customer analysis, inventory insights, and business intelligence reporting.
 
 </details>
 
 <details>
-<summary><b>Customer Churn Analysis Dashboard</b></summary>
+<summary><b>Bank Ledger Reconciliation Automation Tool</b></summary>
 
 ### Overview
 
-A business intelligence solution focused on identifying customer retention patterns, churn drivers, and customer segmentation using advanced analytics techniques.
+The Bank & Ledger Reconciliation Automation Tool is an end-to-end data reconciliation system developed using Python, SQLite, and Streamlit. The project automates the process of comparing bank statement transactions with company ledger records to identify discrepancies, improve financial accuracy, and reduce manual reconciliation effort.
 
 | Metric | Details |
 |----------|----------|
-| Stack | Python, Power BI, SQL, Pandas |
-| Scale | Customer behavioral datasets |
-| Performance | Automated churn insights |
-| Security | Data validation and transformation |
-| Impact | Supports customer retention strategies |
-| Repository | [View Repository](https://github.com/akshat5904) |
+| Stack | Python, SQL, Pandas, Streamlit, Dashboard |
+| Repository | [View Repository](https://github.com/akshat5904/Bank_Ledger_Reconciliation_Automation_Tool) |
 
 ### Professional Summary
 
-This project combines data analytics and visualization to uncover customer behavior trends. Interactive dashboards provide actionable recommendations that help organizations reduce churn and improve customer engagement.
+Automated bank and ledger reconciliation system using Python, SQL, and Streamlit.
 
 </details>
 
-<details>
-<summary><b>Sleep Disorder Prediction System</b></summary>
-
-### Overview
-
-A machine learning solution designed to analyze health and lifestyle data for predicting potential sleep disorders using predictive analytics techniques.
-
-| Metric | Details |
-|----------|----------|
-| Stack | Python, Machine Learning, Pandas |
-| Scale | Structured healthcare datasets |
-| Performance | Automated prediction workflow |
-| Security | Clean preprocessing pipeline |
-| Impact | Demonstrates applied predictive analytics |
-| Repository | [View Repository](https://github.com/akshat5904) |
-
-### Professional Summary
-
-The system leverages machine learning algorithms and feature engineering techniques to classify sleep-related conditions, showcasing practical applications of predictive modeling and data science workflows.
-
-</details>
 
 ---
 
